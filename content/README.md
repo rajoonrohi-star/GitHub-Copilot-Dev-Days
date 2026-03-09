@@ -113,7 +113,7 @@ Each track includes the **GitHub Copilot Dev Days – Core Content Session** and
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level                    |
 | ------------- | ------------ | --------- | ----------------------------- | ------------------------ |
-| [**.NET 10 + Blazor + Visual Studio 2026**](https://dotnet-presentations.github.io/visual-studio-github-copilot-lab/) | Hands-on Lab | ~2 hr | Build a TinyShop e-commerce app while mastering GitHub Copilot in Visual Studio 2026. Covers code completion (including NES), Agent mode, MCP servers, planning mode, cloud delegation, and AI-first workflows. | Intermediate |
+| [**.NET 10 + Blazor + Visual Studio 2026**](https://dotnet-presentations.github.io/visual-studio-github-copilot-lab/) | Hands-on Lab | ~2 hr | Build a TinyShop e-commerce app while mastering GitHub Copilot in Visual Studio 2026. Covers code completion (including NES), Agent Mode, MCP servers, Plan Mode, cloud delegation, and AI-first workflows. | Intermediate |
 
 
 #### 🍎 GitHub Copilot for Xcode & Apple Developers
@@ -126,13 +126,13 @@ Each track includes the **GitHub Copilot Dev Days – Core Content Session** and
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
-| [**JetBrains Workshop**](https://copilot-dev-days.github.io/jetbrains-workshop/) | Hands-on Lab | ~60 min | Master GitHub Copilot in JetBrains IDEs using Spring PetClinic. Covers code completion, codebase exploration with chat, custom instructions, and Agent Mode feature development. | Intermediate |
+| [**JetBrains Workshop**](https://copilot-dev-days.github.io/jetbrains-workshop/) | Hands-on Lab | ~1 hr | Master GitHub Copilot in JetBrains IDEs using Spring PetClinic. Covers code completion, codebase exploration with chat, custom instructions, and Agent Mode feature development. | Intermediate |
 
 ### ⌨️ GitHub Copilot CLI
 
 | Name          | Type         | Time      | Description / Concepts Taught | Level         |
 | ------------- | ------------ | --------- | ----------------------------- | ------------- |
-| [**Tailspin Toys Workshop**](https://copilot-dev-days.github.io/tailspin-toys-workshop/) | Hands-on Lab | ~90 min | Master GitHub Copilot in the terminal with Tailspin Toys. Covers custom instructions, Copilot CLI setup, MCP servers, custom agents, and agent skills for AI-assisted delivery. | Intermediate |
+| [**Tailspin Toys Workshop**](https://copilot-dev-days.github.io/tailspin-toys-workshop/) | Hands-on Lab | ~2 hr | Master GitHub Copilot in the terminal with Tailspin Toys. Covers custom instructions, Copilot CLI setup, MCP servers, custom agents, and agent skills for AI-assisted delivery. | Intermediate |
 
 ### ☁️ GitHub Copilot Coding Agents for Asynchronous Development
 
